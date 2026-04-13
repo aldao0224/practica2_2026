@@ -56,10 +56,9 @@
 
 ###
 
-
-https://github.com/aldao0224/practica2_2026.git
-
-<p align="left">Descripcion:
+<p align="left">
+  
+Descripcion:
 
 Este repositorio corresponde a la práctica 2 del curso SOFT-09: Introducción a la ingenieria del Software en la Universidad CENFOTEC. El objetivoo es aplicar los fuyndamentos de control de versiones utilizando Git y GitHub, simulando un flujo de trabajo profesional.
 
